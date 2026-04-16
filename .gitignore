@@ -14,5 +14,12 @@ venv/
 lambda.zip
 
 .DS_Store
-pb_downloads/
-pb_downloads/*.keep
+pb_downloads/*
+!pb_downloads/.keep
+
+files_for_class
+files_for_class/*
+
+geojson/*
+!geojson/.keep
+/cache
