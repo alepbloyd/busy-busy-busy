@@ -23,3 +23,6 @@ files_for_class/*
 geojson/*
 !geojson/.keep
 /cache
+
+out/*
+!out/.keep
